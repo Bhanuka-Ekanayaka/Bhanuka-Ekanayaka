@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuka-ekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuka-ekanayaka" /> </p>
 
-- 🔭 I’m currently working on **POS Management System**
+- 🔭 I’m currently working on **POS Management Group Project**
 
 - 🌱 I’m currently learning **Frameworks, React etc.**
 
-- 📫 How to reach me **epbhanuka98@gmail.com**
+- 📫 How to reach me **by epbhanuka98@gmail.com**
 
-- 📄 Know about my experiences Still Undergraduate student at the University of Ruhuna
+- 📄 Know about my experiences Still Undergraduate Student
 
 - ⚡ Fun fact **I am Funny**
 

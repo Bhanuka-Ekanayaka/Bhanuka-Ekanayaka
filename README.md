@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **epbhanuka98@gmail.com**
 
-- 📄 Know about my experiences [I am still undergraduate student at the University of Ruhuna](I am still undergraduate student at the University of Ruhuna)
+- 📄 Know about my experiences Still Undergraduate student at the University of Ruhuna
 
 - ⚡ Fun fact **I am Funny**
 

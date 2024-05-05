@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhanuka Ekanyaka</h1>
+<h1 align="center">Hi 👋, I'm Bhanuka Ekanayaka</h1>
 <h2 align="center">I'm undergraduate student at University of Ruhuna and following bachelor of computer science degree programme</h2>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">

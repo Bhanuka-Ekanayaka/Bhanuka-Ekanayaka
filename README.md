@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Ekanyaka</h1>
 <h2 align="center">I'm undergraduate student at University of Ruhuna and following bachelor of computer science degree programme</h2>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/iwdvW8SYjWRQLoxeA">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img alt="Coder GIF"  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /></p>
 

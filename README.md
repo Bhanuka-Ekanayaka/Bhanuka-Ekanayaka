@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/iwdvW8SYjWRQLoxeA">
 
-<p align="left"> <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /></p>
+<p align="left"> <img alt="Coder GIF"  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /></p>
 
 - 🔭 I’m currently working on **POS Management Group Project**
 
